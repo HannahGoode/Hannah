@@ -1,8 +1,8 @@
 # TEALS - Level 1 Heading 
 
-this is my test under level 1. this is for the **Introduction to software technologies** class At *Towers High School*! Links are easy to make - The high school can be found [here] https://www.towershs.dekalb.k12.ga.us/
+This is my test under level 1. This is for the **Introduction to software technologies** class At *Towers High School*! Links are easy to make - The high school can be found [here](https://www.towershs.dekalb.k12.ga.us/)
 
-![The Towers High School and Dekalb County schools logos].(https://www.towershs.dekalb.k12.ga.us/sysimages/logo.png)
+![The Towers High School and Dekalb County schools logos](https://www.towershs.dekalb.k12.ga.us/sysimages/logo.png)
 
 Three things we want to cover are:
 1. how to use git
