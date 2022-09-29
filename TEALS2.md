@@ -1,8 +1,8 @@
 # TEALS - Level 1 Heading 
 
-this is my test under level 1. this is for the introduction to software technologies** At *Towers High School*! Links are easy to make - The high school can be found [here] https://www.towershs.dekalb.k12.ga.us/
+this is my test under level 1. this is for the **Introduction to software technologies** class At *Towers High School*! Links are easy to make - The high school can be found [here] https://www.towershs.dekalb.k12.ga.us/
 
-!(The Towers High School and Dekalb County schools logos].(https://www.towershs.dekalb.k12.ga.us/sysimages/logo.png
+![The Towers High School and Dekalb County schools logos].(https://www.towershs.dekalb.k12.ga.us/sysimages/logo.png)
 
 Three things we want to cover are:
 1. how to use git
@@ -15,6 +15,12 @@ a few languages that we discuss for programming
 -python
 -julia
 
+tables are also helpful
+|Syntax | Description |
+|-----------|-----------|
+| Row 1 | Value 1 |
+| Row 1 | Value 2 |
+| Row 3 | Value 3 |
 
 ## Level 2 Heading 
 
