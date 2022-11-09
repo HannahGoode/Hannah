@@ -1,5 +1,7 @@
 # TEALS - Level 1 Heading 
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HannahGoode/Hannah/HEAD)
+
 This is my test under level 1. This is for the **Introduction to software technologies** class At *Towers High School*! Links are easy to make - The high school can be found [here](https://www.towershs.dekalb.k12.ga.us/)
 
 ![The Towers High School and Dekalb County schools logos](https://www.towershs.dekalb.k12.ga.us/sysimages/logo.png)
